@@ -28,6 +28,9 @@ let package = Package(
         .target(
             name: "Dracula",
             dependencies: [],
+            exclude: [
+                "screenshot.png",
+            ],
             resources: [
                 .process("Colors.xcassets")]
         ),
