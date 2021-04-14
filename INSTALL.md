@@ -16,6 +16,6 @@ Copy `Dracula.swift` and `Colors.xcassets` to your project's folder.
 
 #### Activating theme
 
-1. Do this
-2. Then that
+1. Import `Dracula`
+2. Try `Color.draculaBackground`
 3. Boom! It's working
