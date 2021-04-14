@@ -1,7 +1,7 @@
-import UIKit
+
 import SwiftUI
 
-public extension UIColor {
+public extension Color {
     static var draculaBackground = UIColor(named: "background", in: .module, compatibleWith: nil)
     static let draculaCurrent = Color("current")
     static let draculaForeground = Color("foreground")
