@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/swiftui](https://draculatheme.com/swiftui).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Raphael Cerqueira](https://github.com/rphlfc.png?size=100)](https://github.com/rphlfc) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Raphael Cerqueira](https://github.com/rphlfc) |
 
 ## License
 

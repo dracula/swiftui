@@ -1,8 +1,8 @@
-### [X](http://link-to-x.com)
+### [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
-#### Install using Git
+#### Install using Xcode
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Go to File -> Swift Packages -> Add Package Dependency
 
     $ git clone https://github.com/dracula/template.git
 
