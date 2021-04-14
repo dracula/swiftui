@@ -1,16 +1,17 @@
 
+import SwiftUI
 import UIKit
 
-public extension UIColor {
-    static var draculaBackground = UIColor(named: "background", in: .module, compatibleWith: nil)
-//    static let draculaCurrent = Color("current")
-//    static let draculaForeground = Color("foreground")
-//    static let draculaComment = Color("comment")
-//    static let draculaCyan = Color("cyan")
-//    static let draculaGreen = Color("green")
-//    static let draculaOrange = Color("orange")
-//    static let draculaPink = Color("pink")
-//    static let draculaPurple = Color("purple")
-//    static let draculaRed = Color("red")
-//    static let draculaYellow = Color("yellow")
+public extension Color {
+    static var draculaBackground = Color(UIColor(named: "background", in: .module, compatibleWith: nil)!)
+    static let draculaCurrent = Color(UIColor(named: "current", in: .module, compatibleWith: nil)!)
+    static let draculaForeground = Color(UIColor(named: "foreground", in: .module, compatibleWith: nil)!)
+    static let draculaComment = Color(UIColor(named: "comment", in: .module, compatibleWith: nil)!)
+    static let draculaCyan = Color(UIColor(named: "cyan", in: .module, compatibleWith: nil)!)
+    static let draculaGreen = Color(UIColor(named: "green", in: .module, compatibleWith: nil)!)
+    static let draculaOrange = Color(UIColor(named: "orange", in: .module, compatibleWith: nil)!)
+    static let draculaPink = Color(UIColor(named: "pink", in: .module, compatibleWith: nil)!)
+    static let draculaPurple = Color(UIColor(named: "purple", in: .module, compatibleWith: nil)!)
+    static let draculaRed = Color(UIColor(named: "red", in: .module, compatibleWith: nil)!)
+    static let draculaYellow = Color(UIColor(named: "yellow", in: .module, compatibleWith: nil)!)
 }
