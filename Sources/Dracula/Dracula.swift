@@ -1,6 +1,6 @@
 import SwiftUI
 
-extension Color {
+public extension Color {
     static let draculaBackground = Color("background")
     static let draculaCurrent = Color("current")
     static let draculaForeground = Color("foreground")
