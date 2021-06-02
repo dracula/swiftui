@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/swiftui](https://draculatheme
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/swiftui/graphs/contributors).
 
 [![Raphael Cerqueira](https://github.com/rphlfc.png?size=100)](https://github.com/rphlfc) |
 --- |
