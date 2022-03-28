@@ -10,7 +10,7 @@ After select the package, you can choose the dependency type (tagged version, br
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/swiftui/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/swiftui/archive/refs/heads/master.zip) option and unzip them.
 
 Copy `Dracula.swift` and `Colors.xcassets` to your project's folder.
 
